@@ -1,0 +1,6 @@
+flask
+instagrapi
+gunicorn
+aiogram
+requests
+Pillow>=8.1.1
